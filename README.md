@@ -27,43 +27,43 @@ Code Screenshots
 (Code goes from A to L)
 
 A  
-![Marks A](output/marksheeta_code.png)
+![Marks A](output/marksheet1a_code.png)
 
 B  
-![Marks B](output/marksheetb_code.png)
+![Marks B](output/marksheet1b_code.png)
 
 C  
-![Marks C](output/marksheetc_code.png)
+![Marks C](output/marksheet1c_code.png)
 
 D  
-![Marks D](output/marksheetd_code.png)
+![Marks D](output/marksheet1d_code.png)
 
 E  
-![Marks E](output/marksheete_code.png)
+![Marks E](output/marksheet1e_code.png)
 
 F  
-![Marks F](output/marksheetf_code.png)
+![Marks F](output/marksheet1f_code.png)
 
 G  
-![Marks G](output/marksheetg_code.png)
+![Marks G](output/marksheet1g_code.png)
 
 H  
-![Marks H](output/marksheeth_code.png)
+![Marks H](output/marksheet1h_code.png)
 
 I  
-![Marks I](output/marksheeti_code.png)
+![Marks I](output/marksheet1i_code.png)
 
 J  
-![Marks J](output/marksheetj_code.png)
+![Marks J](output/marksheet1j_code.png)
 
 K  
-![Marks K](output/marksheetk_code.png)
+![Marks K](output/marksheet1k_code.png)
 
 L  
-![Marks L](output/marksheetl_code.png)
+![Marks L](output/marksheet1l_code.png)
 
 Program Output  
-![Marks Output](output/marksheet_output.png)
+![Marks Output](output/marksheet_output.jpg)
 
 ------------------------------------------------------------
 
