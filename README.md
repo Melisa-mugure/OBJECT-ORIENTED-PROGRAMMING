@@ -1,7 +1,6 @@
-Java OOP Course Work
+OBJECT ORIENTED PROGRAMMING
 
-This repository contains Java programs demonstrating Object-Oriented Programming concepts.  
-Each section includes screenshots of the code and the program output.
+Screenshots for Code and output for invoice1, marksheet and invoice2 assignment
 
 ------------------------------------------------------------
 
