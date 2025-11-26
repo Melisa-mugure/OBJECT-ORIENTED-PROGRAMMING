@@ -10,13 +10,15 @@ Each section includes screenshots of the code and the program output.
 Code Screenshots
 
 Part A
+![Invoice1 Code A](output/invoice1a_code.png)
+
+Part B
 ![Invoice1 Code A](output/invoice1b_code.png)
 
 Program Output
-Part B
+
 ![Invoice1 Code B](output/invoice1a_output.png)
 
-Program Output
 ![Invoice1 Output](output/invoice1b_output.png)
 
 ------------------------------------------------------------
@@ -112,7 +114,9 @@ M
 ![Invoice2 M](output/invoice2m.png)
 
 Program Output  
-![Invoice1 Output](output/invoice1_output.png)
+![Invoice1 Code B](output/invoice1a_output.png)
+
+![Invoice1 Output](output/invoice1b_output.png)
 
 ------------------------------------------------------------
 
