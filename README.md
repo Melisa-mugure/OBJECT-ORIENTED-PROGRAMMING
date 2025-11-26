@@ -10,13 +10,13 @@ Each section includes screenshots of the code and the program output.
 Code Screenshots
 
 Part A
-![Invoice1 Code A](outputs/invoice1a_code.png)
+![Invoice1 Code A](output/invoice1a_code.png)
 
 Part B
-![Invoice1 Code B](outputs/invoice1b_code.png)
+![Invoice1 Code B](output/invoice1b_code.png)
 
 Program Output
-![Invoice1 Output](outputs/invoice1_output.png)
+![Invoice1 Output](output/invoice1_output.png)
 
 ------------------------------------------------------------
 
@@ -26,43 +26,43 @@ Code Screenshots
 (Code goes from A to L)
 
 A  
-![Marks A](outputs/marksheeta.png)
+![Marks A](output/marksheeta.png)
 
 B  
-![Marks B](outputs/marksheetb.png)
+![Marks B](output/marksheetb.png)
 
 C  
-![Marks C](outputs/marksheetc.png)
+![Marks C](output/marksheetc.png)
 
 D  
-![Marks D](outputs/marksheetd.png)
+![Marks D](output/marksheetd.png)
 
 E  
-![Marks E](outputs/marksheete.png)
+![Marks E](output/marksheete.png)
 
 F  
-![Marks F](outputs/marksheetf.png)
+![Marks F](output/marksheetf.png)
 
 G  
-![Marks G](outputs/marksheetg.png)
+![Marks G](output/marksheetg.png)
 
 H  
-![Marks H](outputs/marksheeth.png)
+![Marks H](output/marksheeth.png)
 
 I  
-![Marks I](outputs/marksheeti.png)
+![Marks I](output/marksheeti.png)
 
 J  
-![Marks J](outputs/marksheetj.png)
+![Marks J](output/marksheetj.png)
 
 K  
-![Marks K](outputs/marksheetk.png)
+![Marks K](output/marksheetk.png)
 
 L  
-![Marks L](outputs/marksheetl.png)
+![Marks L](output/marksheetl.png)
 
 Program Output  
-![Marks Output](outputs/marks_output.png)
+![Marks Output](output/marks_output.png)
 
 ------------------------------------------------------------
 
@@ -72,46 +72,46 @@ Code Screenshots
 (Code goes from A to M)
 
 A  
-![Invoice2 A](outputs/invoice2a.png)
+![Invoice2 A](output/invoice2a.png)
 
 B  
-![Invoice2 B](outputs/invoice2b.png)
+![Invoice2 B](output/invoice2b.png)
 
 C  
-![Invoice2 C](outputs/invoice2c.png)
+![Invoice2 C](output/invoice2c.png)
 
 D  
-![Invoice2 D](outputs/invoice2d.png)
+![Invoice2 D](output/invoice2d.png)
 
 E  
-![Invoice2 E](outputs/invoice2e.png)
+![Invoice2 E](output/invoice2e.png)
 
 F  
-![Invoice2 F](outputs/invoice2f.png)
+![Invoice2 F](output/invoice2f.png)
 
 G  
-![Invoice2 G](outputs/invoice2g.png)
+![Invoice2 G](output/invoice2g.png)
 
 H  
-![Invoice2 H](outputs/invoice2h.png)
+![Invoice2 H](output/invoice2h.png)
 
 I  
-![Invoice2 I](outputs/invoice2i.png)
+![Invoice2 I](output/invoice2i.png)
 
 J  
-![Invoice2 J](outputs/invoice2j.png)
+![Invoice2 J](output/invoice2j.png)
 
 K  
-![Invoice2 K](outputs/invoice2k.png)
+![Invoice2 K](output/invoice2k.png)
 
 L  
-![Invoice2 L](outputs/invoice2l.png)
+![Invoice2 L](output/invoice2l.png)
 
 M  
-![Invoice2 M](outputs/invoice2m.png)
+![Invoice2 M](output/invoice2m.png)
 
 Program Output  
-![Invoice2 Output](outputs/invoice2_output.png)
+![Invoice2 Output](output/invoice1_output.png)
 
 ------------------------------------------------------------
 
