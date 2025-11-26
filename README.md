@@ -113,9 +113,9 @@ M
 ![Invoice2 M](output/invoice2m.png)
 
 Program Output  
-![Invoice1 Code B](output/invoice1a_output.png)
+![Invoice2 OUTPUT](output/invoice2_output.png)
 
-![Invoice1 Output](output/invoice1b_output.png)
+
 
 ------------------------------------------------------------
 
