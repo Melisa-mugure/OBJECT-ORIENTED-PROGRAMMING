@@ -113,7 +113,7 @@ M
 ![Invoice2 M](output/invoice2m.png)
 
 Program Output  
-![Invoice2 OUTPUT](output/invoice2_output.png)
+![Invoice2 OUTPUT](output/invoice2_output.JPG)
 
 
 
