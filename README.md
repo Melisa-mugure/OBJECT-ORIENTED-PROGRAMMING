@@ -26,43 +26,43 @@ Code Screenshots
 (Code goes from A to L)
 
 A  
-![Marks A](output/marksheeta.png)
+![Marks A](output/marksheeta_code.png)
 
 B  
-![Marks B](output/marksheetb.png)
+![Marks B](output/marksheetb_code.png)
 
 C  
-![Marks C](output/marksheetc.png)
+![Marks C](output/marksheetc_code.png)
 
 D  
-![Marks D](output/marksheetd.png)
+![Marks D](output/marksheetd_code.png)
 
 E  
-![Marks E](output/marksheete.png)
+![Marks E](output/marksheete_code.png)
 
 F  
-![Marks F](output/marksheetf.png)
+![Marks F](output/marksheetf_code.png)
 
 G  
-![Marks G](output/marksheetg.png)
+![Marks G](output/marksheetg_code.png)
 
 H  
-![Marks H](output/marksheeth.png)
+![Marks H](output/marksheeth_code.png)
 
 I  
-![Marks I](output/marksheeti.png)
+![Marks I](output/marksheeti_code.png)
 
 J  
-![Marks J](output/marksheetj.png)
+![Marks J](output/marksheetj_code.png)
 
 K  
-![Marks K](output/marksheetk.png)
+![Marks K](output/marksheetk_code.png)
 
 L  
-![Marks L](output/marksheetl.png)
+![Marks L](output/marksheetl_code.png)
 
 Program Output  
-![Marks Output](output/marks_output.png)
+![Marks Output](output/marksheet_output.png)
 
 ------------------------------------------------------------
 
@@ -111,7 +111,7 @@ M
 ![Invoice2 M](output/invoice2m.png)
 
 Program Output  
-![Invoice2 Output](output/invoice1_output.png)
+![Invoice1 Output](output/invoice1_output.png)
 
 ------------------------------------------------------------
 
